@@ -38,14 +38,22 @@
             padding: 20px;
             border-radius: 8px;
         }
-        .intro-flex {
+        .intro-wrapper {
             display: flex;
+            flex-direction: row;
+            justify-content: space-between;
             align-items: flex-start;
-            gap: 20px;
-            flex-wrap: wrap;
         }
-        .intro-flex img {
-            width: 160px;
+        .intro-content {
+            width: 65%;
+        }
+        .intro-photo {
+            width: 30%;
+            text-align: right;
+        }
+        .intro-photo img {
+            width: 140px;
+            margin-bottom: 10px;
             border-radius: 8px;
         }
         .contact-info li::before {
@@ -69,17 +77,18 @@
 <h1>林哲維</h1>
 <p><strong>助理教授</strong></p>
 
-<div class="section">
-    <div class="intro-flex">
+<div class="section intro-wrapper">
+    <div class="intro-content">
+        <p><strong>簡介：</strong></p>
+        <p>
+            林老師畢業於國立中正大學資訊工程學系博士班，主要的研究領域包含人工智能、自然語言處理、中文故事生成以及電腦視覺等識別方法。
+            在人工智慧與自然語言的研究主要專注在中文內文的解析與強化模型對句子的理解能力，並透過深度學習的方式來進行長短句子的生成與對話等應用。
+            電腦視覺研究則是專注於輔助醫療等實際應用，在2020年林老師曾與嘉義大林慈濟醫院以及嘉義基督教醫院合作，
+            利用影像辨識與深度學習的方法來建立口罩辨識系統以及營養機器人的實際應用。
+        </p>
+    </div>
+    <div class="intro-photo">
         <img src="肥肥圖片.jpg" alt="林哲維照片">
-        <div style="flex: 1; min-width: 250px;">
-            <p><strong>簡介：</strong></p>
-            <p>林老師畢業於國立中正大學資訊工程學系博士班，主要的研究領域包含人工智能、自然語言處理、中文故事生成以及電腦視覺等識別方法。
-                在人工智慧與自然語言的研究主要專注在中文內文的解析與強化模型對句子的理解能力，並透過深度學習的方式來進行長短句子的生成與對話等應用。
-                電腦視覺研究則是專注於輔助醫療等實際應用，在2020年林老師曾與嘉義大林慈濟醫院以及嘉義基督教醫院合作，
-                利用影像辨識與深度學習的方法來建立口罩辨識系統以及營養機器人的實際應用。
-            </p>
-        </div>
     </div>
 </div>
 
