@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>林哲維老師介紹</title>
     <style>
+        /* 設定整體網頁基本樣式 */
         body {
             font-family: 'Noto Sans TC', sans-serif;
             background: linear-gradient(to bottom right, #f0f4f8, #ffffff);
@@ -13,6 +14,8 @@
             padding: 40px 20px;
             line-height: 1.8;
         }
+
+        /* 標題樣式 */
         h1 {
             font-size: 36px;
             margin-bottom: 0.2em;
@@ -26,12 +29,16 @@
         strong {
             color: #005bac;
         }
+
+        /* 列表樣式 */
         ul {
             padding-left: 20px;
         }
         li {
             margin-bottom: 0.5em;
         }
+
+        /* 區塊樣式設定，包含背景色與陰影 */
         .section {
             margin-bottom: 2em;
             background-color: #f9f9fb;
@@ -39,6 +46,8 @@
             border-radius: 10px;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
         }
+
+        /* 簡介區塊左右分欄排版 */
         .intro-wrapper {
             display: flex;
             flex-direction: row;
@@ -58,6 +67,8 @@
             border-radius: 10px;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
+
+        /* 聯絡資訊列表前加上圖示 */
         .contact-info li::before {
             content: '📧';
             margin-right: 6px;
@@ -65,15 +76,21 @@
         .contact-info li:nth-child(2)::before {
             content: '📞';
         }
+
+        /* 編號列表樣式 */
         ol {
             padding-left: 20px;
         }
+
+        /* 摘要分類標題樣式 */
         .category-title {
             font-weight: bold;
             font-size: 20px;
             margin-bottom: 0.5em;
             color: #444;
         }
+
+        /* 摺疊 details 標題樣式 */
         details summary {
             cursor: pointer;
             font-weight: bold;
@@ -82,6 +99,8 @@
         details {
             margin-top: 10px;
         }
+
+        /* 教學圖片區塊樣式 */
         .image-gallery {
             text-align: center;
             margin-bottom: 2em;
@@ -96,10 +115,17 @@
     </style>
 </head>
 <body>
+<!-- 頁面標題與職稱 -->
 <h1>林哲維</h1>
 <p><strong>助理教授</strong></p>
 
+<!-- 插入兩張教學用圖片 -->
+<div class="image-gallery">
+    <img src="title.jpg" alt="教學圖片1">
+    <img src="title2.jpg" alt="教學圖片2">
+</div>
 
+<!-- 教師簡介區塊（含個人照片） -->
 <div class="section intro-wrapper">
     <div class="intro-content">
         <p><strong>簡介：</strong></p>
@@ -115,6 +141,7 @@
     </div>
 </div>
 
+<!-- 學歷區塊 -->
 <div class="section">
     <p><strong>學歷：</strong></p>
     <ul>
@@ -124,6 +151,7 @@
     </ul>
 </div>
 
+<!-- 專長區塊 -->
 <div class="section">
     <p><strong>專長：</strong></p>
     <ul>
@@ -134,6 +162,7 @@
     </ul>
 </div>
 
+<!-- 聯絡資訊區塊 -->
 <div class="section">
     <p><strong>聯絡資訊：</strong></p>
     <ul class="contact-info">
@@ -142,6 +171,7 @@
     </ul>
 </div>
 
+<!-- 發表期刊論文（可收合區塊） -->
 <div class="section">
     <details open>
         <summary class="category-title">發表期刊論文（8）</summary>
@@ -158,6 +188,7 @@
     </details>
 </div>
 
+<!-- 會議論文（可收合區塊） -->
 <div class="section">
     <details open>
         <summary class="category-title">會議論文（11）</summary>
@@ -177,6 +208,7 @@
     </details>
 </div>
 
+<!-- 校內與校外經歷 -->
 <div class="section">
     <p><strong>校內經歷：</strong></p>
     <ul>
