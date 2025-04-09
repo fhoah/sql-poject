@@ -6,15 +6,15 @@
     <style>
         body {
             font-family: 'Noto Sans TC', sans-serif;
-            background-color: #ffffff;
+            background: linear-gradient(to bottom right, #f0f4f8, #ffffff);
             color: #333;
-            max-width: 900px;
+            max-width: 960px;
             margin: 0 auto;
             padding: 40px 20px;
             line-height: 1.8;
         }
         h1 {
-            font-size: 32px;
+            font-size: 36px;
             margin-bottom: 0.2em;
             color: #003366;
         }
@@ -34,9 +34,10 @@
         }
         .section {
             margin-bottom: 2em;
-            background-color: #f7f7f7;
-            padding: 20px;
-            border-radius: 8px;
+            background-color: #f9f9fb;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
         }
         .intro-wrapper {
             display: flex;
@@ -52,9 +53,10 @@
             text-align: right;
         }
         .intro-photo img {
-            width: 220px;
+            width: 240px;
             margin-bottom: 10px;
-            border-radius: 8px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
         .contact-info li::before {
             content: '📧';
@@ -70,23 +72,11 @@
             font-weight: bold;
             font-size: 20px;
             margin-bottom: 0.5em;
-        }
-        .title-img {
-            text-align: center;
-            margin: 20px auto;
-        }
-        .title-img img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 6px;
+            color: #444;
         }
     </style>
 </head>
 <body>
-<div class="title-img">
-    <img src="title.jpg" alt="Title 圖片">
-</div>
-
 <h1>林哲維</h1>
 <p><strong>助理教授</strong></p>
 
@@ -161,10 +151,6 @@
         <li>Parallel Collision Detection with OpenMP <i>ISAI</i>, 2018-06.</li>
         <li>Enhanced Depth Estimation with RGB-D <i>IEEE ICASI</i>, 2017-05.</li>
     </ol>
-</div>
-
-<div class="title-img">
-    <img src="title2.jpg" alt="Title2 圖片">
 </div>
 </body>
 </html>
