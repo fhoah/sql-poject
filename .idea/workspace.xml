@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="561b2a99-0ef0-4495-b786-5052c55b15f5" name="Changes" comment="加上註解的版本">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sql-poject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/title2.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fhoah&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fhoah/sql-poject.git&quot;,
+    &quot;accountId&quot;: &quot;76862695-5861-4775-8d60-022601e60288&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vUin2NCSyE2wlwqg6de6TXFCka" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fat/WebstormProjects/sql-poject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561b2a99-0ef0-4495-b786-5052c55b15f5" name="Changes" comment="" />
+      <created>1744206216277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744206216277</updated>
+      <workItem from="1744206217370" duration="6677000" />
+      <workItem from="1746027672987" duration="100000" />
+      <workItem from="1746027774994" duration="75000" />
+      <workItem from="1746028096927" duration="2288000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1744206270144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744206270144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1744206786780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744206786780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1744206984070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744206984070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first">
+      <option name="closed" value="true" />
+      <created>1744207008675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744207008675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first">
+      <option name="closed" value="true" />
+      <created>1744207024120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744207024120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change photo location">
+      <option name="closed" value="true" />
+      <created>1744207726582</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744207726582</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744208030433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744208030433</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209002338</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209002338</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209081968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209081968</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209531292</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209531292</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209782121</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209782121</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209826788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209826788</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744209832188</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744209832188</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change photo width">
+      <option name="closed" value="true" />
+      <created>1744210027132</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744210027132</updated>
+    </task>
+    <task id="LOCAL-00015" summary="input more css and take out title and title2">
+      <option name="closed" value="true" />
+      <created>1744210457621</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744210457621</updated>
+    </task>
+    <task id="LOCAL-00016" summary="input 校內外經歷 and input &lt;details&gt;">
+      <option name="closed" value="true" />
+      <created>1744210632647</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744210632647</updated>
+    </task>
+    <task id="LOCAL-00017" summary="input photo">
+      <option name="closed" value="true" />
+      <created>1744210918307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744210918307</updated>
+    </task>
+    <task id="LOCAL-00018" summary="input photo">
+      <option name="closed" value="true" />
+      <created>1744210968487</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744210968487</updated>
+    </task>
+    <task id="LOCAL-00019" summary="input photo">
+      <option name="closed" value="true" />
+      <created>1744211396794</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744211396794</updated>
+    </task>
+    <task id="LOCAL-00020" summary="last">
+      <option name="closed" value="true" />
+      <created>1744211484399</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744211484399</updated>
+    </task>
+    <task id="LOCAL-00021" summary="加上註解的版本">
+      <option name="closed" value="true" />
+      <created>1744211758288</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744211758288</updated>
+    </task>
+    <task id="LOCAL-00022" summary="加上註解的版本">
+      <option name="closed" value="true" />
+      <created>1744211854776</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744211854776</updated>
+    </task>
+    <task id="LOCAL-00023" summary="加上註解的版本">
+      <option name="closed" value="true" />
+      <created>1744211952566</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744211952566</updated>
+    </task>
+    <task id="LOCAL-00024" summary="加上註解的版本">
+      <option name="closed" value="true" />
+      <created>1744212149340</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744212149340</updated>
+    </task>
+    <task id="LOCAL-00025" summary="加上註解的版本">
+      <option name="closed" value="true" />
+      <created>1746027830644</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746027830644</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sec" />
+    <MESSAGE value="first" />
+    <MESSAGE value="change photo location" />
+    <MESSAGE value="input title photo" />
+    <MESSAGE value="change photo width" />
+    <MESSAGE value="input more css and take out title and title2" />
+    <MESSAGE value="input 校內外經歷 and input &lt;details&gt;" />
+    <MESSAGE value="input photo" />
+    <MESSAGE value="last" />
+    <MESSAGE value="加上註解的版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上註解的版本" />
+  </component>
+</project>
